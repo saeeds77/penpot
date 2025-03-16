@@ -1,4 +1,4 @@
-
+ 
 [uri_license]: https://www.mozilla.org/en-US/MPL/2.0
 [uri_license_image]: https://img.shields.io/badge/MPL-2.0-blue.svg
 
